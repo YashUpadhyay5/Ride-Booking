@@ -1,4 +1,4 @@
-# Uber Project
+# Ride Booking Project
 
 This repository contains the source code for the Ride Cab application, which consists of a backend (Node.js/Express) and a frontend (React/Vite).
 
